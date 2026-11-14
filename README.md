@@ -106,7 +106,7 @@ Všechny jsou popsané v [`.env.example`](.env.example).
 
 Projekt vytvořil tým na AT&T Junior Hackathonu:
 
-- **Polmi985**
+- **David Polaštík**
 - Adam Kolařík
 - Tomáš Zapletal
 - Štěpa Buriánek
