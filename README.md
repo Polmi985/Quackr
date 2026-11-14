@@ -1,4 +1,4 @@
-# Quackr 🦆
+# Quackr
 
 > Swipuj zprávy, odhal fake news a otestuj svou intuici.
 
